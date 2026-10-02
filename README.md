@@ -36,29 +36,6 @@ O projeto demonstra:
 - versionamento;
 - documentação do fluxo.
 
-## Estrutura
 
-```text
-entrada/
-    relato_bruto.md
-
-apoio/
-    caso_sanitizado.md
-    fonte_1.md
-    fonte_2.md
-
-docs/
-    limites_e_sigilo.md
-    especificacao.md
-    prompts/
-        consulta_rag.md
-        auditoria.md
-
-evidencias/
-    resposta_inicial.md
-    verificacao.md
-    auditoria.md
-    revisao_humana.md
-
-entrega/
-    orientacao_inicial.md
+## link do repositorio 
+https://github.com/techinckel-star/caso-gloc-gloc.git
